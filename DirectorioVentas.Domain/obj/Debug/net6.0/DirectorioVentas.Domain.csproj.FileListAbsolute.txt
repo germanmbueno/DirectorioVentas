@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\bin\Debug\net6.0\DirectorioVentas.Domain.deps.json
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\bin\Debug\net6.0\DirectorioVentas.Domain.dll
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\bin\Debug\net6.0\DirectorioVentas.Domain.pdb
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.AssemblyInfo.cs
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.dll
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\refint\DirectorioVentas.Domain.dll
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.pdb
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\ref\DirectorioVentas.Domain.dll
