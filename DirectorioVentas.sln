@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectorioVentas.Infrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectorioVentas.API", "DirectorioVentas.API\DirectorioVentas.API.csproj", "{91EB933E-BC73-4B79-8D38-4E191ECCF6BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectorioVentas.Client", "DirectorioVentas.Client\DirectorioVentas.Client.csproj", "{E143081D-4E30-409B-9FA8-178531A3659C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{91EB933E-BC73-4B79-8D38-4E191ECCF6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EB933E-BC73-4B79-8D38-4E191ECCF6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EB933E-BC73-4B79-8D38-4E191ECCF6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E143081D-4E30-409B-9FA8-178531A3659C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E143081D-4E30-409B-9FA8-178531A3659C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E143081D-4E30-409B-9FA8-178531A3659C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E143081D-4E30-409B-9FA8-178531A3659C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

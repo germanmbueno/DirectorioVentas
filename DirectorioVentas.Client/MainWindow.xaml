@@ -1,0 +1,76 @@
+﻿<Window x:Class="DirectorioVentas.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:DirectorioVentas.Client.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Directorio de Personas" Height="450" Width="700"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Formulario -->
+        <Border Grid.Row="0" Padding="15" Margin="0 0 0 15" Background="#F5F5F5" CornerRadius="8">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" Grid.Column="0" Content="Nombre:" VerticalAlignment="Center" />
+                <TextBox Grid.Row="0" Grid.Column="1" Margin="5"
+                         Text="{Binding NuevaPersona.Nombre, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Grid.Row="1" Grid.Column="0" Content="Apellido Paterno:" VerticalAlignment="Center" />
+                <TextBox Grid.Row="1" Grid.Column="1" Margin="5"
+                         Text="{Binding NuevaPersona.ApellidoPaterno, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Grid.Row="2" Grid.Column="0" Content="Apellido Materno:" VerticalAlignment="Center" />
+                <TextBox Grid.Row="2" Grid.Column="1" Margin="5"
+                         Text="{Binding NuevaPersona.ApellidoMaterno, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Label Grid.Row="3" Grid.Column="0" Content="Identificación:" VerticalAlignment="Center" />
+                <TextBox Grid.Row="3" Grid.Column="1" Margin="5"
+                         Text="{Binding NuevaPersona.Identificacion, UpdateSourceTrigger=PropertyChanged}" />
+
+                <Button Grid.Row="4" Grid.Column="1" Content="Guardar"
+                        Command="{Binding GuardarCommand}"
+                        HorizontalAlignment="Right" Margin="5"
+                        Padding="8,4"
+                        Background="#2196F3" Foreground="White" FontWeight="Bold"
+                        />
+            </Grid>
+        </Border>
+
+        <!-- Tabla -->
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Personas}" AutoGenerateColumns="False"
+                  Margin="0"
+                  CanUserAddRows="False"
+                  HeadersVisibility="Column"
+                  RowHeaderWidth="0"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+                <DataGridTextColumn Header="Apellido Paterno" Binding="{Binding ApellidoPaterno}" Width="*"/>
+                <DataGridTextColumn Header="Apellido Materno" Binding="{Binding ApellidoMaterno}" Width="*"/>
+                <DataGridTextColumn Header="Identificación" Binding="{Binding Identificacion}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
