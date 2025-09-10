@@ -9,3 +9,4 @@ C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debu
 C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\refint\DirectorioVentas.Domain.dll
 C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.pdb
 C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\ref\DirectorioVentas.Domain.dll
+C:\Users\HP\Documents\Net_Work\DirectorioVentas\DirectorioVentas.Domain\obj\Debug\net6.0\DirectorioVentas.Domain.sourcelink.json

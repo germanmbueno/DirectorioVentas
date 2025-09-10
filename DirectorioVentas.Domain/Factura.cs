@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace DirectorioVentas.Domain
@@ -12,7 +13,10 @@ namespace DirectorioVentas.Domain
         public DateTime Fecha { get; set; }
         public decimal Monto { get; set; }
 
+        [JsonIgnore]
         public int PersonaId { get; set; }
-        public Persona Persona { get; set; } = default!;
+
+        [JsonIgnore]
+        public Persona? Persona { get; set; } = default!;
     }
 }
