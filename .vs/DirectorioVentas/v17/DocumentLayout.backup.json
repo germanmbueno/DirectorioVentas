@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.infrastructure\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|solutionrelative:directorioventas.infrastructure\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\directorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\directorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.infrastructure\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|solutionrelative:directorioventas.infrastructure\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\iventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\iventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\idirectorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\idirectorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DFB99A-87E2-41E9-9596-859AF74FAD84}|DirectorioVentas.Infrastructure\\DirectorioVentas.Infrastructure.csproj|solutionrelative:directorioventas.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C66D0532-EC7F-4094-A0BD-BA3D32A48A51}|DirectorioVentas.Domain\\DirectorioVentas.Domain.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.domain\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +21,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{C66D0532-EC7F-4094-A0BD-BA3D32A48A51}|DirectorioVentas.Domain\\DirectorioVentas.Domain.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C66D0532-EC7F-4094-A0BD-BA3D32A48A51}|DirectorioVentas.Domain\\DirectorioVentas.Domain.csproj|solutionrelative:directorioventas.domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\iventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\iventasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\idirectorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\idirectorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|c:\\users\\hp\\documents\\net_work\\directorioventas\\directorioventas.application\\directorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E3C578-FAD4-489F-AB1E-2773682BD4B4}|DirectorioVentas.Application\\DirectorioVentas.Application.csproj|solutionrelative:directorioventas.application\\directorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VentasService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\VentasService.cs",
-              "RelativeDocumentMoniker": "DirectorioVentas.Application\\VentasService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\VentasService.cs",
-              "RelativeToolTip": "DirectorioVentas.Application\\VentasService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:53:27.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DirectorioService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\DirectorioService.cs",
-              "RelativeDocumentMoniker": "DirectorioVentas.Application\\DirectorioService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\DirectorioService.cs",
-              "RelativeToolTip": "DirectorioVentas.Application\\DirectorioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:51:28.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IVentasService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IVentasService.cs",
-              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IVentasService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IVentasService.cs",
-              "RelativeToolTip": "DirectorioVentas.Application\\IVentasService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:46:33.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDirectorioService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IDirectorioService.cs",
-              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IDirectorioService.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IDirectorioService.cs",
-              "RelativeToolTip": "DirectorioVentas.Application\\IDirectorioService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:45:33.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IFacturaRepository.cs",
-              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IFacturaRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IFacturaRepository.cs",
-              "RelativeToolTip": "DirectorioVentas.Application\\IFacturaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:44:20.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IPersonaRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IPersonaRepository.cs",
               "RelativeDocumentMoniker": "DirectorioVentas.Application\\IPersonaRepository.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IPersonaRepository.cs",
               "RelativeToolTip": "DirectorioVentas.Application\\IPersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T22:39:31.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "IVentasService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IVentasService.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IVentasService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IVentasService.cs",
+              "RelativeToolTip": "DirectorioVentas.Application\\IVentasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:46:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentasService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\VentasService.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Application\\VentasService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\VentasService.cs",
+              "RelativeToolTip": "DirectorioVentas.Application\\VentasService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:53:27.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Domain\\Factura.cs",
               "RelativeDocumentMoniker": "DirectorioVentas.Domain\\Factura.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Domain\\Factura.cs",
               "RelativeToolTip": "DirectorioVentas.Domain\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:20:05.64Z"
+              "WhenOpened": "2025-09-09T20:20:05.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Domain\\Persona.cs",
               "RelativeDocumentMoniker": "DirectorioVentas.Domain\\Persona.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Domain\\Persona.cs",
               "RelativeToolTip": "DirectorioVentas.Domain\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T20:18:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\AppDbContext.cs*",
+              "RelativeToolTip": "DirectorioVentas.Infrastructure\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:04:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Infrastructure\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\FacturaRepository.cs*",
+              "RelativeToolTip": "DirectorioVentas.Infrastructure\\FacturaRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:11:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Infrastructure\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Infrastructure\\PersonaRepository.cs*",
+              "RelativeToolTip": "DirectorioVentas.Infrastructure\\PersonaRepository.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:10:39.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IFacturaRepository.cs",
+              "RelativeToolTip": "DirectorioVentas.Application\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:44:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDirectorioService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IDirectorioService.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Application\\IDirectorioService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\IDirectorioService.cs",
+              "RelativeToolTip": "DirectorioVentas.Application\\IDirectorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:45:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectorioService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\DirectorioService.cs",
+              "RelativeDocumentMoniker": "DirectorioVentas.Application\\DirectorioService.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Net_Work\\DirectorioVentas\\DirectorioVentas.Application\\DirectorioService.cs",
+              "RelativeToolTip": "DirectorioVentas.Application\\DirectorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:51:28.54Z",
               "EditorCaption": ""
             },
             {
